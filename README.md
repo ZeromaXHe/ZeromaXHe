@@ -10,7 +10,7 @@
 - 🤔 **正在迷茫：作为一个 5 年经验的 Java 程序员的黯淡未来。（但正在享受：逃出 995 Java 工作，离职在家独立开发和学习的自由时光）**
   - I’m perplexed by: a limited development prospects as a Java programmer with 5 years of experience. (But enjoying: the free time of independent development and learning at home after leaving the last no-WLB 995 Java job)
 
-![ZeromaXHe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeromaXHe&show_icons=true&include_all_commits=true&line_height=21&locale=cn) ![ZeromaXHe's GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ZeromaXHe&layout=compact&locale=cn)
+![ZeromaXHe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeromaXHe&show_icons=true&include_all_commits=true&line_height=21&locale=cn) ![ZeromaXHe's GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ZeromaXHe&layout=compact&locale=cn&hide=HTML,JavaScript)
 
 |                                    | 熟悉<br/>Familiar                                            | 了解一点<br/>Understand A Little                                 | 学了皮毛<br/> Just Learned                                  |
 | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
